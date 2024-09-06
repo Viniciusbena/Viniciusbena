@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 💙
 
-<!--
-**Viniciusbena/Viniciusbena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Vinícius Kawell
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você entrar em contato comigo 📫
+
+  00001099479332sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/_Gh3ezRN2P0AAAAi/%D0%BB%D1%8E%D1%82%D1%8B%D0%B9-%D0%BF%D0%BE%D0%BD-%D0%BB%D0%B0%D0%B9%D0%BA.gif)
+
